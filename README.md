@@ -7,7 +7,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 [![Run on Repl.it](https://repl.it/badge/github/aaahdoot/2009-FSA-RM-BCP-MO)](https://repl.it/github/aaahdoot/2009-FSA-RM-BCP-MO)
 
 ## Table of Contents
-
+<!--
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
@@ -20,7 +20,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 10. [Higher Order Functions I](#10-higher-order-functions-i)
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
 12. [Recursion I](#12-recursion-i)
-<!--
 13. [Recursion II](#13-recursion-ii)
     -->
 
@@ -53,7 +52,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-
+<!--
 ## **01 Introduction and Tidy Code**
 
 **[Live Lecture](https://youtu.be/K28xrsEqhlI)**
@@ -105,7 +104,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-<!--
 ### Notes
 
 [Full Notes](03-coercion-and-truthiness)
@@ -150,7 +148,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-<!--
 ### Notes
 
 [Full Notes](05-arrays-I)
@@ -169,7 +166,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 12. [Array.slice()](05-arrays-I/L-array-slice.js)
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
--->
 
 ## **06 Arrays II**
 
@@ -199,7 +195,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-<!-- ### Notes
+### Notes
 
 [Full Notes](07-objects-i)
 
@@ -214,7 +210,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
--->
+
 ## **08 Objects II**
 
 **[Live Lecture](https://youtu.be/YhrEZgoyqzM)**
@@ -240,7 +236,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
 
-<!-- ### Notes
+### Notes
 
 [Full Notes](09-pass-by-value-pass-by-reference)
 
@@ -313,7 +309,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 5. [Iterables](12-recursion-i/E-iterables.js)
 6. [Hints](12-recursion-i/F-hints.js)
 
-<!-- ## **13 Recursion II**
+## **13 Recursion II**
 
 **[Live Lecture]()**
 
