@@ -7,6 +7,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 [![Run on Repl.it](https://repl.it/badge/github/aaahdoot/2009-FSA-RM-BCP-MO)](https://repl.it/github/aaahdoot/2009-FSA-RM-BCP-MO)
 
 ## Table of Contents
+
 <!--
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
@@ -249,7 +250,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 8. [Passing Primitive Values as Arguments](09-pass-by-value-pass-by-reference/H-pass-prim.js)
 9. [Passing Complex Values as Arguments](09-pass-by-value-pass-by-reference/I-pass-comp.js)
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
-11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js) -->
+11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
 
 ## **10 Higher Order Functions I**
 
@@ -322,4 +323,4 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 1. [logsAnArray](13-recursion-ii/A-logsAnArray.js)
 2. [concatEls](13-recursion-ii/B-concatEls.js)
 3. [sumVals](13-recursion-ii/C-sumVals.js)
---!>
+-->
