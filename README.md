@@ -115,7 +115,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 5. [Boolean Coercion 2](03-coercion-and-truthiness/E-boolean-coercion-2.js)
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
--->
 
 ## **04 Scope**
 
