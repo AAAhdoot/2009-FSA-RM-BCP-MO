@@ -79,48 +79,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes
-
-<!--
-## **01 Introduction and Tidy Code**
-
-**[Live Lecture](https://youtu.be/K28xrsEqhlI)**
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
-
-[Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
-
-### Notes
-
-[Full Notes](01-tidy-code)
-
-1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNaming.js)
-
-## **02 Loops And Debugging**
-
-**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
-
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
-**[Live Lecture](https://youtu.be/4OkRQxcErnw)**
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
-
-### Notes
-
-[Full Notes](02-loops-and-debugging)
-
-1. [While Loop](02-loops-and-debugging/A-while-loop.js)
-2. [For Loop](02-loops-and-debugging/B-for-loop.js)
-3. [Which is Better](02-loops-and-debugging/C-for-vs-while.js)
-4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
-5. [Break Keyword](02-loops-and-debugging/E-break.js)
-
 ## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
