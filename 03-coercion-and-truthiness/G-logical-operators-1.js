@@ -1,15 +1,15 @@
 /* Logical operators also coerce values to boolean values */
 
-// if (10 && 20) {
-//   console.log('both 10 and 20 are truthy values');
-// }
+if (10 && 20) {
+  console.log('both 10 and 20 are truthy values');
+}
 
-// if (10 && 0) {
-//   console.log('this will not be logged');
-// }
-// else {
-//   console.log('zero is falsey');
-// }
+if (10 && 0) {
+  console.log('this will not be logged');
+}
+else {
+  console.log('zero is falsey');
+}
 
 /*
 Notes:
@@ -106,15 +106,15 @@ What if we were to mix && and ||
 - so the && operation will return a value first, that will then be used in the || operator
 */
 
-if(10 || 'jake' && 0){ 
-  // 'jake' && 0 => 0
-  // 10 || 0 => 10
-  //Boolean(10) => true
-  console.log('true')
-}
-else{
-  console.log('no')
-}
+// if(10 || 'jake' && 0){ 
+//   // 'jake' && 0 => 0
+//   // 10 || 0 => 10
+//   //Boolean(10) => true
+//   console.log('true')
+// }
+// else{
+//   console.log('no')
+// }
 
 /*
 Notes:

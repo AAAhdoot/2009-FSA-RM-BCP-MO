@@ -9,15 +9,15 @@ implicit coercion also changes the type of a value
 
 // Implicit coercion: +
 
-// let sum = 10 + 20;
+let sum = 10 + 20;
 
-// let concatenatedString = '10' + '20'; // '1020'
+let concatenatedString = '10' + '20'; // '1020'
 
-// let notSure = 10 + '20'; // will this throw an error? return a value?
+let notSure = 10 + '20'; // will this throw an error? return a value?
 
-// console.log('sum', sum);
-// console.log('concatenatedString:', concatenatedString);
-// console.log('notSure:', notSure); 
+console.log('sum', sum);
+console.log('concatenatedString:', concatenatedString);
+console.log('notSure:', notSure); 
 
 /*
 Notes:
@@ -58,12 +58,12 @@ This rule doesn't necessarily apply to other operators such as the - sign.
 Numbers added together will return another number, but once you try to add a number to a string, the number will coerced into a string before anything else happens 
 */ 
 
-let alsoAString = 10 + 20 + 30 + 40 + '50' + (24 + 26);
-// 10 + 20 + 30 + 40 = 100
-// 100 + '50' => '100' + '50' = '10050'
-// '10050' + '50' => '1005050'
-console.log(alsoAString);
-console.log(typeof alsoAString);
+// let alsoAString = 10 + 20 + 30 + 40 + '50' + (24 + 26);
+// // 10 + 20 + 30 + 40 = 100
+// // 100 + '50' => '100' + '50' = '10050'
+// // '10050' + '50' => '1005050'
+// console.log(alsoAString);
+// console.log(typeof alsoAString);
 
 /*
 Notes:
