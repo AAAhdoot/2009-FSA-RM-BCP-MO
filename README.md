@@ -37,9 +37,9 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 ### Notes
 
-<!--
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
+<!--
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
