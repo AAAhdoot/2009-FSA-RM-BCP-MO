@@ -7,8 +7,8 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 ## Table of Contents
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!--
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+<!--
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
 6. [Arrays II](#06-arrays-ii)
@@ -79,12 +79,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-<!--
 ## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/YOS9w_VaKaY)**
+**[Live Lecture](https://youtu.be/jUEvVzlB6Cs)**
 
 **[Live Solutions](https://youtu.be/ry2uQPvueek)**
 
@@ -104,6 +103,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
+<!--
 ## **04 Scope**
 
 **[Live Lecture](https://www.youtube.com/watch?v=Iod61uu6aXg)**
