@@ -103,10 +103,9 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-<!--
 ## **04 Scope**
 
-**[Live Lecture](https://www.youtube.com/watch?v=Iod61uu6aXg)**
+**[Live Lecture](https://youtu.be/2O26y6wP8AM)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/VRGF_o7OGfA)**
 
@@ -126,6 +125,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 6. [Hoisting](04-scope/F-hoisting.js)
 7. [Best Practices](04-scope/G-bestpract.js)
 
+<!--
 ## **05 Arrays I**
 
 **[Live Lecture](https://youtu.be/nyQ-s-mpW20)**
