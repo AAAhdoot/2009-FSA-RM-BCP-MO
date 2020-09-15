@@ -9,9 +9,9 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
-<!--
 5. [Arrays I](#05-arrays-I)
 6. [Arrays II](#06-arrays-ii)
+<!--
 7. [Objects](#07-objects-i)
 8. [Object Methods](#08-objects-ii)
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
@@ -127,16 +127,16 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 6. [Hoisting](04-scope/F-hoisting.js)
 7. [Best Practices](04-scope/G-bestpract.js)
 
-<!--
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/nyQ-s-mpW20)**
+**[Live Lecture](https://youtu.be/uGxwiRRkVFs)**
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
+<!--
 ### Notes
 
 [Full Notes](05-arrays-I)
@@ -155,10 +155,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 12. [Array.slice()](05-arrays-I/L-array-slice.js)
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
+-->
 
 ## **06 Arrays II**
 
-**[Live Lecture](https://youtu.be/5vyAnVIa_uQ)**
+**[Live Lecture](https://youtu.be/6UOpGWjxBHM)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
@@ -175,6 +176,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 5. [Nested Looping](06-arrays-ii/E-nested-looping.js)
 6. [Grid](06-arrays-ii/F-grid.js)
 
+<!--
 ## **07 Objects I**
 
 **[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
