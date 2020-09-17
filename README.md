@@ -176,7 +176,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 5. [Nested Looping](06-arrays-ii/E-nested-looping.js)
 6. [Grid](06-arrays-ii/F-grid.js)
 
-<!--
 ## **07 Objects I**
 
 **[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
@@ -186,6 +185,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
+<!--
 ### Notes
 
 [Full Notes](07-objects-i)
@@ -201,10 +201,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
+-->
 
 ## **08 Objects II**
 
-**[Live Lecture](https://youtu.be/YhrEZgoyqzM)**
+**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
@@ -218,6 +219,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 2. [Creating Methods](08-objects-ii/B-createmethods.js)
 3. [this](08-objects-ii/C-this.js)
 
+<!--
 ## **09 Pass by Value, Pass by Reference**
 
 **[Live Lecture](https://youtu.be/mCdJI9ItTZw)**
