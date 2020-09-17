@@ -1,14 +1,14 @@
 /* The ! (aka bang) operator coerces a value to a boolean value that's opposite of its truthiness (that's why ! is also called the not operator) */
 
-// console.log(!true); // !Boolean(true)
+console.log(!true); // !Boolean(true)
 
-// console.log(!'abc'); // !Boolean('abc')
+console.log(!'abc'); // !Boolean('abc')
 
-// console.log(!100);
+console.log(!100);
 
-// console.log(!['an', 'array']);
+console.log(!['an', 'array']);
 
-// console.log(!{an: 'object'});
+console.log(!{an: 'object'});
 
 
 //Formula
@@ -44,7 +44,7 @@ Formula
 */
 
 
-let isThisTruthey = !!5;
-console.log(isThisTruthey);
+// let isThisTruthey = !!5;
+// console.log(isThisTruthey);
 
-let isLogin = !!username;
+// let isLogin = !!username;

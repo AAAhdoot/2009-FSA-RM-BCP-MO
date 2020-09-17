@@ -5,45 +5,13 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 [![Run on Repl.it](https://repl.it/badge/github/aaahdoot/2009-FSA-RM-BCP-MO)](https://repl.it/github/aaahdoot/2009-FSA-RM-BCP-MO)
 
 ## Table of Contents
-
-## **01 Introduction and Tidy Code**
-
-**[Live Lecture](https://youtu.be/2MZ71HR25m8)**
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
-
-[Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
-
-### Notes
-
-[Full Notes](01-tidy-code)
-
-1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNaming.js)
-
-## **02 Loops And Debugging**
-
-**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
-
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
-**[Live Lecture](https://youtu.be/MLkEERTsOXw)**
-
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
-
-### Notes
-
-<!--
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
 6. [Arrays II](#06-arrays-ii)
+<!--
 7. [Objects](#07-objects-i)
 8. [Object Methods](#08-objects-ii)
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
@@ -82,10 +50,9 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 3. [Quick Maths](00-additional-notes/03-quick-maths.js)
 4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
 
-<!--
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture](https://youtu.be/K28xrsEqhlI)**
+**[Live Lecture](https://youtu.be/2MZ71HR25m8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
@@ -93,12 +60,14 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
 
+<!--
 ### Notes
 
 [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/A-indenting.js)
 2. [Variable Names](01-tidy-code/B-variableNaming.js)
+-->
 
 ## **02 Loops And Debugging**
 
@@ -106,27 +75,17 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/4OkRQxcErnw)**
+**[Live Lecture](https://youtu.be/MLkEERTsOXw)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes
-
-[Full Notes](02-loops-and-debugging)
-
-1. [While Loop](02-loops-and-debugging/A-while-loop.js)
-2. [For Loop](02-loops-and-debugging/B-for-loop.js)
-3. [Which is Better](02-loops-and-debugging/C-for-vs-while.js)
-4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
-5. [Break Keyword](02-loops-and-debugging/E-break.js)
-
 ## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/YOS9w_VaKaY)**
+**[Live Lecture](https://youtu.be/jUEvVzlB6Cs)**
 
 **[Live Solutions](https://youtu.be/ry2uQPvueek)**
 
@@ -148,7 +107,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 ## **04 Scope**
 
-**[Live Lecture](https://www.youtube.com/watch?v=Iod61uu6aXg)**
+**[Live Lecture](https://youtu.be/2O26y6wP8AM)**
 
 **[Scope Workshop Problems 4 & 5 Review](https://youtu.be/VRGF_o7OGfA)**
 
@@ -170,13 +129,14 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/nyQ-s-mpW20)**
+**[Live Lecture](https://youtu.be/uGxwiRRkVFs)**
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
+<!--
 ### Notes
 
 [Full Notes](05-arrays-I)
@@ -195,10 +155,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 12. [Array.slice()](05-arrays-I/L-array-slice.js)
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
+-->
 
 ## **06 Arrays II**
 
-**[Live Lecture](https://youtu.be/5vyAnVIa_uQ)**
+**[Live Lecture](https://youtu.be/6UOpGWjxBHM)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
@@ -224,6 +185,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
+<!--
 ### Notes
 
 [Full Notes](07-objects-i)
@@ -239,10 +201,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
+-->
 
 ## **08 Objects II**
 
-**[Live Lecture](https://youtu.be/YhrEZgoyqzM)**
+**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
@@ -256,6 +219,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 2. [Creating Methods](08-objects-ii/B-createmethods.js)
 3. [this](08-objects-ii/C-this.js)
 
+<!--
 ## **09 Pass by Value, Pass by Reference**
 
 **[Live Lecture](https://youtu.be/mCdJI9ItTZw)**

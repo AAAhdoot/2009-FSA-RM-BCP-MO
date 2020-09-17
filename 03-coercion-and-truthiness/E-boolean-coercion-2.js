@@ -7,20 +7,20 @@
 // what do you think the output will be?
 
 // Example with a number
-// if (5) { // if(Boolean(5) === true)
-//   console.log('in the if'); 
-// }
-// else {
-//   console.log('in the else');
-// }
+if (5) { // if(Boolean(5) === true)
+  console.log('in the if'); 
+}
+else {
+  console.log('in the else');
+}
 
-// // Example with a string
-// if ('apples') {  // if(Boolean('apples') === true)
-//   console.log('in the if');
-// }
-// else {
-//   console.log('in the else');
-// }
+// Example with a string
+if ('apples') {  // if(Boolean('apples') === true)
+  console.log('in the if');
+}
+else {
+  console.log('in the else');
+}
 
 /*
 Notes:
@@ -33,20 +33,20 @@ Notes:
 
 /* JS will implicitly coerce the result of an expression in a conditional to a boolean value */
 
-if (10) { // if(Boolean(10) === true)
-  console.log('yes');
-}
-else {
-  console.log('no');
-}
+// if (10) { // if(Boolean(10) === true)
+//   console.log('yes');
+// }
+// else {
+//   console.log('no');
+// }
 
 
-if (0) { // if(Boolean(0) === true)
-  console.log('yes');
-}
-else {
-  console.log('no');
-}
+// if (0) { // if(Boolean(0) === true)
+//   console.log('yes');
+// }
+// else {
+//   console.log('no');
+// }
 
 
 /*
