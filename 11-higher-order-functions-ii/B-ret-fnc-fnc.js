@@ -4,19 +4,19 @@
 
 /* …functions can return other functions! */
 
-// function greetMe() {
-//   console.log('Hi!');
-// }
+function greetMe() {
+  console.log('Hi!');
+}
 
-// function getGreeter() {
-//   return greetMe; // note: we're returning the function without calling it
-// }
+function getGreeter() {
+  return greetMe; // note: we're returning the function without calling it
+}
 
-// let greeter = getGreeter();
+let greeter = getGreeter();
 
-// console.log(typeof greeter);
-// console.log(greeter);
-// greeter();
+console.log(typeof greeter);
+console.log(greeter);
+greeter();
 
 // --------------------------
 // EXAMPLE 2 - Invoking the function inside the other function
@@ -76,16 +76,16 @@
 // EXAMPLE 5 - Declaring a function that takes a parameter inside the other function and returning it
 // --------------------------
 
-function getGreeter() {
-  // what if our returned function takes a parameter?
+// function getGreeter() {
+//   // what if our returned function takes a parameter?
 
-  return function(name) {
-    console.log('Hi', name);
-  };
-}
+//   return function(name) {
+//     console.log('Hi', name);
+//   };
+// }
 
-let greeter = getGreeter();
+// let greeter = getGreeter();
 
-greeter('Marie');
-greeter('Rosalind');
-greeter();
+// greeter('Marie');
+// greeter('Rosalind');
+// greeter();

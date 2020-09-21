@@ -11,12 +11,12 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
 6. [Arrays II](#06-arrays-ii)
-<!--
 7. [Objects](#07-objects-i)
 8. [Object Methods](#08-objects-ii)
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
 10. [Higher Order Functions I](#10-higher-order-functions-i)
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
+<!--
 12. [Recursion I](#12-recursion-i)
 13. [Recursion II](#13-recursion-ii)
     -->
@@ -211,15 +211,15 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
-### Notes
+<!-- ### Notes
 
 [Full Notes](08-objects-ii)
 
 1. [What Are Methods](08-objects-ii/A-whatisamethod.js)
 2. [Creating Methods](08-objects-ii/B-createmethods.js)
-3. [this](08-objects-ii/C-this.js)
+3. [this](08-objects-ii/C-this.js) -->
 
-<!--
+
 ## **09 Pass by Value, Pass by Reference**
 
 **[Live Lecture](https://youtu.be/mCdJI9ItTZw)**
@@ -229,7 +229,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
 
-### Notes
+<!-- ### Notes
 
 [Full Notes](09-pass-by-value-pass-by-reference)
 
@@ -243,7 +243,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 8. [Passing Primitive Values as Arguments](09-pass-by-value-pass-by-reference/H-pass-prim.js)
 9. [Passing Complex Values as Arguments](09-pass-by-value-pass-by-reference/I-pass-comp.js)
 10. [Equality and Comparisons](09-pass-by-value-pass-by-reference/J-equality.js)
-11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js)
+11. [PBV-PBR & Array.slice()](09-pass-by-value-pass-by-reference/K-array-slice.js) -->
 
 ## **10 Higher Order Functions I**
 
@@ -255,7 +255,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Review Video](https://youtu.be/naTmHcFqn7s)
 
-### Notes
+<!-- ### Notes
 
 [Full Notes](10-higher-order-functions-i)
 
@@ -263,16 +263,16 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 2. [Functions in Arrays](10-higher-order-functions-i/02-fn-in-arrays.js)
 3. [Passing Functions into Functions](10-high-order-functions-i/C-pass-fn-in-fn.js)
 4. [Anonymous Functions](10-high-order-functions-i/D-anon-functions.js)
-5. [.forEach](10-high-order-functions-i/E-for-each.js)
+5. [.forEach](10-high-order-functions-i/E-for-each.js) -->
 
 ## **11 Higher Order Functions II**
 
-**[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
-**[Solutions](https://youtu.be/W4Cv02x3V5Q)**
+<!-- **[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
+**[Solutions](https://youtu.be/W4Cv02x3V5Q)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text) -->
 
 ### Notes
 
@@ -283,6 +283,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 3. [Passing Functions in Functions](11-higher-order-functions-ii/C-scope.js)
 4. [Closure](11-higher-order-functions-ii/D-closure.js)
 
+<!--
 ## **12 Recursion I**
 
 **[Live Lecture](https://youtu.be/tC3TfaZALO0)**

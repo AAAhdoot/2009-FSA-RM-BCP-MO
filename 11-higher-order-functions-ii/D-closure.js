@@ -1,18 +1,18 @@
 /* 
 closure is the fact that an inner function can STILL access values defined in the outer function even after the outer function has finished running! */
 
-// function getGreeter() {
-//   console.log('getGreeter is running');
-//   let name = 'Marie'; 
-//   console.log('getGreeter is finishing');
+function getGreeter() {
+  console.log('getGreeter is running');
+  let name = 'Marie'; 
+  console.log('getGreeter is finishing');
   
-//   return function() {
-//     console.log('Hi', name, ': we are currently in the inner function');
-//   };
-// }
+  return function() {
+    console.log('Hi', name, ': we are currently in the inner function');
+  };
+}
 
-// let greeter = getGreeter();
-// greeter();
+let greeter = getGreeter();
+greeter();
 
 // --------------------------
 // EXAMPLE 1 PART 2 - Trying to access the name variable with
@@ -68,17 +68,17 @@ closure is the fact that an inner function can STILL access values defined in th
 // --------------------------
 // EXAMPLE 4 - Put it all together
 // --------------------------
-function getGreeter(name1) {
-  return function(name2) {
-    console.log('Hi ' + name1 + ', meet ' + name2);
-  };
-}
+// function getGreeter(name1) {
+//   return function(name2) {
+//     console.log('Hi ' + name1 + ', meet ' + name2);
+//   };
+// }
 
-let introduceMarieTo = getGreeter('Marie');
-let introduceRosalindTo = getGreeter('Rosalind');
+// let introduceMarieTo = getGreeter('Marie');
+// let introduceRosalindTo = getGreeter('Rosalind');
 
-introduceMarieTo('Dorothy');
-introduceMarieTo('Albert');
+// introduceMarieTo('Dorothy');
+// introduceMarieTo('Albert');
 
-introduceRosalindTo('Barbara');
-introduceRosalindTo('Isaac');
+// introduceRosalindTo('Barbara');
+// introduceRosalindTo('Isaac');
