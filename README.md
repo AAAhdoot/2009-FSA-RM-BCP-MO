@@ -267,12 +267,12 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 ## **11 Higher Order Functions II**
 
-<!-- **[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
-**[Solutions](https://youtu.be/W4Cv02x3V5Q)** -->
+**[Live Lecture](https://youtu.be/bpk0skQmZkA)**
+**[Solutions](https://youtu.be/W4Cv02x3V5Q)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
 
 ### Notes
 
