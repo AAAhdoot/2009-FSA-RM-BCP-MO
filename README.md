@@ -209,14 +209,13 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
-<!-- ### Notes
+### Notes
 
 [Full Notes](08-objects-ii)
 
 1. [What Are Methods](08-objects-ii/A-whatisamethod.js)
 2. [Creating Methods](08-objects-ii/B-createmethods.js)
-3. [this](08-objects-ii/C-this.js) -->
-
+3. [this](08-objects-ii/C-this.js)
 
 ## **09 Pass by Value, Pass by Reference**
 
