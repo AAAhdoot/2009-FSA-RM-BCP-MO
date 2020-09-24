@@ -1,13 +1,13 @@
 // Print out all of the elements in an array
 
-function logsAnArray(array) {
-  for (let i = 0; i < array.length; i++) {
-    let element = array[i];
-    console.log(element);
-  }
-}
+// function logsAnArray(array) {
+//   for (let i = 0; i < array.length; i++) {
+//     let element = array[i];
+//     console.log(element);
+//   }
+// }
 
-logsAnArray([1, [2, 3]]); // what if the input is nested?
+// logsAnArray([1, [2, 3]]); // what if the input is nested?
 
 /* consider the element variable declared on line 7. that could be a number, or it could be another array! */
 
@@ -21,22 +21,25 @@ logsAnArray([1, [2, 3]]); // what if the input is nested?
 
 // Note: it's safe to run THIS code on pythontutor (http://pythontutor.com/javascript.html#mode=edit)
 
-// function logsAnArray(array) {
-//   for (let i = 0; i < array.length; i++) {
-//     let element = array[i];
+function logsAnArray(array) { 
+  // array = [1,[2, 3]]
+  for (let i = 0; i < array.length; i++) {
+    let element = array[i];
     
-//     if (Array.isArray(element)) {
-//       // if the current element is an array, we need to recurse on that array
-//       logsAnArray(element);
-//     }
-//     else {
-//       // otherwise, just print out the element
-//       console.log(element);
-//     }
-//   }
-// }
+    if (Array.isArray(element)) {
+      // recursive case
+      // if the current element is an array, we need to recurse on that array
+      logsAnArray(element);
+    }
+    else {
+      // base case: if an element is not an array
+      // otherwise, just print out the element
+      console.log(element);
+    }
+  }
+}
 
-// logsAnArray([1, [2, 3]]);
+logsAnArray([1, [2, 3]]);
 
 /*
 Breakdown

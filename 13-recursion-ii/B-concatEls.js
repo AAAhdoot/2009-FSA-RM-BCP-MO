@@ -1,17 +1,17 @@
 // Take an array of elements(letters), and concatenate them together
 //['a', 'b', 'c'] ⇒ abc
  
-function concatEls(array) {
-  let finalString = '';
-  for (let i = 0; i < array.length; i++) {
-    let element = array[i];
-    finalString += element;
-  }
-  return finalString;
-}
+// function concatEls(array) {
+//   let finalString = '';
+//   for (let i = 0; i < array.length; i++) {
+//     let element = array[i];
+//     finalString += element;
+//   }
+//   return finalString;
+// }
 
-let result = concatEls(['a', 'b', 'c']);
-console.log(result);
+// let result = concatEls(['a', 'b', 'c']);
+// console.log(result);
 
 // ---------------------------------------
 // Introducing Nested Arrays
@@ -25,21 +25,26 @@ so what we need to include now is an implementation for what happens when an ele
 */
 
 // Note: it's safe to run THIS code on pythontutor (http://pythontutor.com/javascript.html#mode=edit)
-// function concatEls(array) {
-//   let finalString = '';
-//   for (let i = 0; i < array.length; i++) {
-//     let element = array[i];
-//     if (Array.isArray(element)) {
-//       finalString += concatEls(element);
-//       // If the element is an array, then we want to recurse on that array element, concatenate all of that array's elements, and add the result to finalString 
-//     } else {
-//       finalString += element;
-//     }
-//   }
-//   return finalString;
-// }
-// let result = concatEls(['a', ['b', 'c']]);
-// console.log(result);
+function concatEls(array) {
+  // array = ['b','c']
+  let finalString = '';
+  for (let i = 0; i < array.length; i++) {
+    let element = array[i];
+    if (Array.isArray(element)) {
+      finalString += concatEls(element);
+      // If the element is an array, then we want to recurse on that array element, concatenate all of that array's elements, and add the result to finalString 
+    } else {
+      finalString += element;
+    }
+  }
+  return finalString;
+}
+let result = concatEls(['a', ['b', 'c']]);
+console.log(result);
+
+
+// original finalString = 'a'
+// recursed finalString = 'bc'
 
 /*
 Breakdown

@@ -8,47 +8,52 @@ if the value is another object, recursively call the function on the nested obje
 
 /* write a function sumVals that sums the values in an object */
 
-function sumVals(obj) {
-  let sum = 0;
-  for (let key in obj) {
-    let value = obj[key];
-    sum += value;
-  }
-  return sum;
-}
+// function sumVals(obj) {
+//   let sum = 0;
+//   for (let key in obj) {
+//     let value = obj[key];
+//     sum += value;
+//   }
+//   return sum;
+// }
 
-let result = sumVals({a: 10, b: 20});
-console.log(result);
+// let result = sumVals({a: 10, b: 20});
+// console.log(result);
 
 // ---------------------------------------
-// Introducing Nested Arrays
+// Introducing Nested Objects
 // ---------------------------------------
 
 // Now what if there were nested objects involved?
 // For example: 
-//{a: 1, b: {c: {d: {e:2, f: 3}}}} ⇒ 1 + 2 + 3 = 6
+// {a: 1, b: {c: {d: {e:2, f: 3}}}} ⇒ 1 + 2 + 3 = 6
 
 /* 
 so what we need to include now is an implementation for what happens when an value of an object is an object in itself
 */
 
 // Note: it's safe to run THIS code on pythontutor (http://pythontutor.com/javascript.html#mode=edit)
-// function sumVals(obj) {
-//   let sum = 0;
-//   for (let key in obj) {
-//     let value = obj[key];
-//     if (typeof value === 'object') {
-//     // If the value is an object, then we want to recurse on that value, sum up all of that array's values, and add the result to sum 
-//       sum += sumVals(value)
-//     } else {
-//       sum += value;
-//     }
-//   }
-//   return sum;
-// }
+function sumVals(obj) {
+  // obj = {a:1, b:{c:{d:{e: 2, f: 3}}}}
+  let sum = 0;
+  for (let key in obj) {
+    let value = obj[key];
+    if (typeof value === 'object') {
+    // If the value is an object, then we want to recurse on that value, sum up all of that array's values, and add the result to sum 
+      sum += sumVals(value);
+    } else {
+      sum += value; 
+    }
+  }
+  return sum;
+}
 
-// let result = sumVals({a: 1, b: {c: {d: {e:2, f: 3}}}})
-// console.log(result);
+let result = 
+sumVals({a: 1, b: {c: {d: {e:2, f: 3}}}})
+
+console.log(result);
+
+// 1st sum = 6
 
 /*
 Breakdown

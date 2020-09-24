@@ -16,10 +16,8 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 9. [Pass By Value, Pass By Reference](#09-pass-by-value-pass-by-reference)
 10. [Higher Order Functions I](#10-higher-order-functions-i)
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
-<!--
 12. [Recursion I](#12-recursion-i)
 13. [Recursion II](#13-recursion-ii)
-    -->
 
 ## Additional Resources
 
@@ -283,7 +281,6 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 3. [Passing Functions in Functions](11-higher-order-functions-ii/C-scope.js)
 4. [Closure](11-higher-order-functions-ii/D-closure.js)
 
-<!--
 ## **12 Recursion I**
 
 **[Live Lecture](https://youtu.be/tC3TfaZALO0)**
@@ -292,7 +289,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-### Notes
+<!-- ### Notes
 
 [Full Notes](12-recursion-i)
 
@@ -301,11 +298,11 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 3. [Countdown](12-recursion-i/C-countdown.js)
 4. [Factorial](12-recursion-i/D-factorial.js)
 5. [Iterables](12-recursion-i/E-iterables.js)
-6. [Hints](12-recursion-i/F-hints.js)
+6. [Hints](12-recursion-i/F-hints.js) -->
 
 ## **13 Recursion II**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/23UzIpHLM2Q)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
@@ -317,4 +314,4 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 1. [logsAnArray](13-recursion-ii/A-logsAnArray.js)
 2. [concatEls](13-recursion-ii/B-concatEls.js)
 3. [sumVals](13-recursion-ii/C-sumVals.js)
--->
+
