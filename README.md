@@ -316,5 +316,5 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 
 # **Next Steps**
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)
+**[Live Lecture](https://youtu.be/ymNBN2HWEso)**
 
