@@ -314,6 +314,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 2. [concatEls](13-recursion-ii/B-concatEls.js)
 3. [sumVals](13-recursion-ii/C-sumVals.js)
 
-# Next Steps
+# **Next Steps**
+
 **[Live Lecture](https://youtu.be/ymNBN2HWEso)
 
