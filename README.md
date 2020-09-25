@@ -18,7 +18,7 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 11. [Higher Order Functions II](#10-higher-order-functions-ii)
 12. [Recursion I](#12-recursion-i)
 13. [Recursion II](#13-recursion-ii)
-14. [Next Steps]
+14. [Next Steps](#14-next-steps)
 
 ## Additional Resources
 
@@ -318,4 +318,4 @@ Hello! This is where Ariel and David will put all the material for BCP. If any o
 ## **Next Steps**
 
 **[Live Lecture](https://youtu.be/ymNBN2HWEso)**
-
+<!-- (14-next-steps) -->
